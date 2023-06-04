@@ -1,0 +1,6 @@
+INSERT INFO students values (jitne column banye honge utni vlues aainge )
+
+SELECT *FROM students 
+
+# From selected 
+SELECT * FROM students WHERE batch = '36

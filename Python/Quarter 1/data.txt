@@ -1,0 +1,11 @@
+A generator is a just function that returns an iterable object
+which we can iterate over (one value at a time)
+Moreover, a generator function has one main difference from a regular function
+It has a yield statement instead of a return statement in a regular function
+To build an iterator in Python
+you should do a lot of work
+You have to implement a class with __iter__ and __next__ magic method, keep track of internal states and raise
+StopIteration when there are no values to be returned
+A generator is a very simple way to create an iterator
+Because a generator does all of these steps automatically
+

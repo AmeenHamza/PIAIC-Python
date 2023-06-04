@@ -1,0 +1,6 @@
+Assalam u Alaikum .
+My name is Ameen Hamza .
+My Father name is Abid Hussain Siddiqui .
+I currently studied Computer Science in program of Artificial Intelligence .
+So this file is for testing file IO .This is appending line
+This is appending line
